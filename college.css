@@ -34,3 +34,8 @@ html{
     background: #007bb5;
     color: white;
   }
+
+  #carouselExampleIndicators {
+    border: 0 100px;
+    padding: 0 100px;
+  }
